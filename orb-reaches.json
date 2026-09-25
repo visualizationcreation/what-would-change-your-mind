@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "reaches": [
+    {
+      "target": {
+        "id": "the-beliefs-we-live-by",
+        "url": "https://orbiversity.com/the-beliefs-we-live-by/",
+        "topic": "The Beliefs We Live By"
+      },
+      "relation": "application",
+      "reason": "Continue from philosophical examination to a practical distinction between a belief, a prediction, and an observable test. This is a modern application, not evidence about Socrates.",
+      "evidence": []
+    }
+  ]
+}
